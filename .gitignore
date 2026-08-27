@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+.cache/
+.pm2/
+.bitcoin/
+*.tar.gz
+.bash_history
